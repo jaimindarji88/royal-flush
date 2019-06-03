@@ -15,7 +15,7 @@ importScripts("/royal-flush/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/royal-flush/workbox-v3.6.3"});
 
 importScripts(
-  "/royal-flush/precache-manifest.cd209ac49e4010865459c64491369be9.js"
+  "/royal-flush/precache-manifest.b67fb4fd14adb0468392fa7163c959ba.js"
 );
 
 workbox.clientsClaim();
