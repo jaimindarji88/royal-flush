@@ -1,7 +1,7 @@
 {
   "main.css": "/royal-flush/static/css/main.27b700bb.chunk.css",
-  "main.js": "/royal-flush/static/js/main.aee83350.chunk.js",
-  "main.js.map": "/royal-flush/static/js/main.aee83350.chunk.js.map",
+  "main.js": "/royal-flush/static/js/main.28e6812e.chunk.js",
+  "main.js.map": "/royal-flush/static/js/main.28e6812e.chunk.js.map",
   "static/css/1.f1dd841d.chunk.css": "/royal-flush/static/css/1.f1dd841d.chunk.css",
   "static/js/1.2eb0c77a.chunk.js": "/royal-flush/static/js/1.2eb0c77a.chunk.js",
   "static/js/1.2eb0c77a.chunk.js.map": "/royal-flush/static/js/1.2eb0c77a.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.f1dd841d.chunk.css.map": "/royal-flush/static/css/1.f1dd841d.chunk.css.map",
   "static/css/main.27b700bb.chunk.css.map": "/royal-flush/static/css/main.27b700bb.chunk.css.map",
   "index.html": "/royal-flush/index.html",
-  "precache-manifest.b67fb4fd14adb0468392fa7163c959ba.js": "/royal-flush/precache-manifest.b67fb4fd14adb0468392fa7163c959ba.js",
+  "precache-manifest.f536eb205b69f39837d3a8dc193a8b5e.js": "/royal-flush/precache-manifest.f536eb205b69f39837d3a8dc193a8b5e.js",
   "service-worker.js": "/royal-flush/service-worker.js"
 }
