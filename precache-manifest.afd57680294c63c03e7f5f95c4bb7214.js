@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/royal-flush/static/js/runtime~main.41199cb9.js"
   },
   {
-    "revision": "d1adf86c64811fd4f899",
-    "url": "/royal-flush/static/js/main.d1adf86c.chunk.js"
+    "revision": "01da107ff89f06430558",
+    "url": "/royal-flush/static/js/main.01da107f.chunk.js"
   },
   {
     "revision": "2eb0c77a6f7eada2d0ea",
     "url": "/royal-flush/static/js/1.2eb0c77a.chunk.js"
   },
   {
-    "revision": "d1adf86c64811fd4f899",
+    "revision": "01da107ff89f06430558",
     "url": "/royal-flush/static/css/main.27b700bb.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/royal-flush/static/css/1.f1dd841d.chunk.css"
   },
   {
-    "revision": "e53b2fe2375112d0e6b47926509cfc68",
+    "revision": "c6d3349e63729f446bc4ebdfd4c04d28",
     "url": "/royal-flush/index.html"
   }
 ];
